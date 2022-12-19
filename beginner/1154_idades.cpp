@@ -9,7 +9,7 @@ using namespace std;
  
 int main() {
  
-    int n = 0, i =0;
+    int n = 0, i = 0;
     int soma = 0;
     
     while(true){
