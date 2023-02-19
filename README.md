@@ -18,35 +18,37 @@ Este repositório contém soluções em C++ para desafios de algoritmos encontra
 
 Antes de começar, garanta que você esta utilizando Linux ou o WSL (Windows Subsystem Linux for Windows)
 
-instale o GCC utilizando o comando `sudo apt install g++`
+instale o G++ utilizando o comando `sudo apt install g++`
 
 ## Executando
 
 Para executar entre na pasta a qual está o código utilizando o comando `cd <nome_pasta>`
 
-Execute `g++ <arquivo.c> -o saida` para compilar o código
+Execute `g++ <arquivo.cpp> -o saida` para compilar o código
 
 Finalmente execute `./saida` para executar o código compilado e seja Feliz :)
 
---- 
+---
 
 Exemplo prático estando na pasta raiz:
+
 ```bash
 cd Beginner/
-gcc 1000_helloworld.cpp -o saida
+g++ 1000_helloworld.cpp -o saida
 ./saida
 ```
 
 Saida do programa:
-```
+
+```text
 Hello World!
 
 ```
 
-
 ## Conteúdo
 
 ### Beginner
+
 - [Beginner](Beginner)
 
 ## Links Didáticos
