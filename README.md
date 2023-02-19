@@ -1,6 +1,6 @@
-![Cplusplus](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# Beecrowd Exercises
 
-# Beecrowd Exercises 
+![Cplusplus](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 Este repositório contém soluções em C++ para desafios de algoritmos encontrados na plataforma Beecrowd. Cada pasta contém o código e uma descrição breve do problema resolvido. O objetivo é compartilhar minhas soluções com outros programadores e possivelmente ajudar alguém que esteja enfrentando os mesmos desafios.
 
