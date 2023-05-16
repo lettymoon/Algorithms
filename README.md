@@ -1,8 +1,6 @@
 # Beecrowd Exercises
 
-![Cplusplus](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-Este repositório contém soluções em C++ para desafios de algoritmos encontrados na plataforma Beecrowd. Cada pasta contém o código e uma descrição breve do problema resolvido. O objetivo é compartilhar minhas soluções com outros programadores e possivelmente ajudar alguém que esteja enfrentando os mesmos desafios.
+Este repositório contém soluções em C++, Python e Pascal para desafios de algoritmos encontrados na plataforma Beecrowd. Cada pasta contém o código e uma descrição breve do problema resolvido. O objetivo é compartilhar minhas soluções com outros programadores e possivelmente ajudar alguém que esteja enfrentando os mesmos desafios.
 
 ## Index
 
@@ -11,7 +9,7 @@ Este repositório contém soluções em C++ para desafios de algoritmos encontra
   - [Instalando](#instalando)
   - [Executando](#executando)
   - [Conteúdo](#conteúdo)
-    - [Beginner](#beginner)
+    - [Desafios feitos em C e C++](#desafios-feitos-em-c-e-c)
   - [Links Didáticos](#links-didáticos)
 
 ## Instalando
@@ -47,9 +45,11 @@ Hello World!
 
 ## Conteúdo
 
-### Beginner
+### Desafios feitos em C e C++
 
-- [Beginner](Beginner)
+- [C/C++](/beecrowd/C%2B%2B/)
+  - [Begineer](/beecrowd/C%2B%2B/Beginner/)
+  - [Ad-hoc](/beecrowd/C%2B%2B/Ad-hoc/)
 
 ## Links Didáticos
 
