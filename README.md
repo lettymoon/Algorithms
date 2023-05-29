@@ -7,9 +7,13 @@ Este repositório contém soluções em C++, Python e Pascal para desafios de al
 - [Beecrowd Exercises](#beecrowd-exercises)
   - [Index](#index)
   - [Instalando](#instalando)
-  - [Executando](#executando)
+  - [Executando em C/C++](#executando-em-cc)
+  - [Executando em Pascal](#executando-em-pascal)
+  - [Executando em Python](#executando-em-python)
   - [Conteúdo](#conteúdo)
     - [Desafios feitos em C e C++](#desafios-feitos-em-c-e-c)
+    - [Desafios feitos em Python](#desafios-feitos-em-python)
+    - [Desafios feitos em Pascal](#desafios-feitos-em-pascal)
   - [Links Didáticos](#links-didáticos)
 
 ## Instalando
@@ -18,7 +22,7 @@ Antes de começar, garanta que você esta utilizando Linux ou o WSL (Windows Sub
 
 instale o G++ utilizando o comando `sudo apt install g++`
 
-## Executando
+## Executando em C/C++
 
 Para executar entre na pasta a qual está o código utilizando o comando `cd <nome_pasta>`
 
@@ -43,6 +47,14 @@ Hello World!
 
 ```
 
+## Executando em Pascal
+
+[Clique aqui](Pascal/README.md)
+
+## Executando em Python
+
+[Clique aqui](Python/README.md)
+
 ## Conteúdo
 
 ### Desafios feitos em C e C++
@@ -50,6 +62,14 @@ Hello World!
 - [C/C++](/beecrowd/C%2B%2B/)
   - [Begineer](/beecrowd/C%2B%2B/Beginner/)
   - [Ad-hoc](/beecrowd/C%2B%2B/Ad-hoc/)
+
+### Desafios feitos em Python
+
+- [Python](Python)
+
+### Desafios feitos em Pascal
+
+- [Pascal](Pascal)
 
 ## Links Didáticos
 
