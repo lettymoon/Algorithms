@@ -6,9 +6,10 @@ This repository contains algorithm's solutions to challenges found on the leetco
 
 ## Repositories
 
-- [Blind 75](/blind-75)
-  - [Arrays and Hashing](/blind-75/arrays-hashing/)
+- [NeetCode Basics](neetcode-basics)
+- [NeetCode](/neetcode)
+  - [Arrays and Hashing](/neetcode/arrays-hashing/)
 
 ## Links
 
-- [NeetCode - Blind 75](https://neetcode.io/practice)
+- [NeetCode Pratice](https://neetcode.io/practice)
