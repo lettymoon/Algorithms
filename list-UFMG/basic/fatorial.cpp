@@ -1,24 +1,20 @@
-/*
-Fatorial - Neps Academy
-
-*/
+// Fatorial - Neps Academy
 
 #include <bits/stdc++.h>
 using namespace std;
 
-int fat(int n){
-    if(n == 0)
-        return 1;
-    return n*fat(n-1);
+int fatorial(int n){
+    if(n == 0) return 1;
+
+    int fat = 1;
+    for(int i = 1; i < n+1; i++) fat *= i;
+
+    return fat;
 }
 
 int main (void){
-    int n;
+    int n; cin >> n;
 
-    while(n >= 0){
-        cin >> n;
-        cout << "Fat = " << fat(n) << endl;
-    }
-
+    cout << fatorial(n) << endl;
     return 0;
 }
